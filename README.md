@@ -52,7 +52,7 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | 🤖 **[Streamlit RAG Chatbot](https://github.com/Sumit-1018/streamlit-rag-chatbot)** | AI Chatbot allowing users to ask questions with context-aware responses. | `Python` `Streamlit` |
-| 🚑 **[RescueMap](https://github.com/Sumit-1018/RescueMap)** | Real-time location app for emergency services (Fire, Medical, Police). | `Kotlin` `Google Maps` |
+| 🌾 **[KisanBandhu](https://github.com/Sumit-1018/KisanBandhu)** | AI-powered Android app assisting farmers with agricultural queries. | `Kotlin` `AI` |
 | 📊 **[Samsung Sales Dashboard](https://github.com/Sumit-1018/SamsungSalesDashboard)** | Interactive dashboard analyzing revenue trends and product performance. | `Power BI` `Data Viz` |
 | 🧪 **[Software Testing Suite](https://github.com/Sumit-1018/SoftwareTestingProject)** | Automation suite for e-commerce (Cart, Checkout, Search flows). | `Java` `Selenium` |
 
