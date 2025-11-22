@@ -45,5 +45,5 @@ Comprehensive automation testing suite for e-commerce platforms using **Java**, 
 
 ### 📫 Connect with Me
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=safari)](https://github.com/Sumit-1018/Portfolio)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/sumitgupta1018/)
+[![](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=safari)](https://https://sumit-1018.github.io/)
