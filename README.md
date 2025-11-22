@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Sumit+Gupta;Data+Analytics+%7C+App+Dev;Software+Testing+%7C+Automation;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sumit%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20App%20Dev%20%7C%20Automation&descAlignY=55&descAlign=50" alt="Sumit Gupta Header" />
 </div>
 
 <div align="center">
@@ -29,9 +29,9 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 **Cloud Services**
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
 
 **Data & Visualization**
 <br>
