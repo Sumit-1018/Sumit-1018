@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sumit-1018&theme=flat&no-frame=true&column=7&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sumit-1018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Sumit's Trophies" />
   </a>
 </div>
 
