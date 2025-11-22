@@ -76,6 +76,7 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumitgupta1018/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Duality__7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=safari)](https://sumit-1018.github.io/)
 
 </div>
