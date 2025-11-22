@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1018&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=79ff97&icon_color=79ff97" height="230" alt="Top Languages Donut" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
@@ -62,6 +62,7 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumit-1018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 <br>
 <div align="center">
