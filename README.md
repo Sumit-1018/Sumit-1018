@@ -66,7 +66,6 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-1018&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
 </div>
 
 ---
