@@ -61,11 +61,12 @@ I am a passionate developer focusing on **Data Analytics**, **Software Testing**
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-1018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-<br>
-<div align="center">
+  <a href="https://github.com/Sumit-1018">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sumit-1018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Sumit-1018">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  </a>
 </div>
 
 ---
