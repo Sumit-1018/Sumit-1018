@@ -171,7 +171,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitgupta1018/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Practice_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Duality__7/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out_My_Work-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://sumit-1018.github.io/)
-  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitgupta.1018@gmail.com)
   
 </div>
 
