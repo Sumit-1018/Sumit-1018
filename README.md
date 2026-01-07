@@ -143,9 +143,6 @@ Comprehensive automation framework for e-commerce testing including cart managem
 ## 📊 GitHub Analytics
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-1018&theme=radical&hide_border=true&background=0D1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak Stats"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-1018&theme=react-dark&hide_border=true&bg_color=0D1117&color=79ff97&line=79ff97&point=C9D1D9" alt="Contribution Graph"/>
