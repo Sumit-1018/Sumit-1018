@@ -142,10 +142,6 @@ Comprehensive automation framework for e-commerce testing including cart managem
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumit-1018&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=79ff97&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=79ff97&text_color=C9D1D9&langs_count=8"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-1018&theme=radical&hide_border=true&background=0D1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak Stats"/>
@@ -157,13 +153,6 @@ Comprehensive automation framework for e-commerce testing including cart managem
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumit-1018&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💡 What I'm Currently Working On
 
@@ -175,13 +164,6 @@ Comprehensive automation framework for e-commerce testing including cart managem
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sumit-1018&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=79ff97&text_color=C9D1D9" alt="Top Contributed Repositories"/>
-</div>
-
----
 
 ## 📫 Let's Connect!
 
