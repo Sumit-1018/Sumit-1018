@@ -77,7 +77,6 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 ---
 
 ## 🔭 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
@@ -123,19 +122,21 @@ Comprehensive Power BI dashboard analyzing sales trends, revenue patterns, and p
 </td>
 <td width="50%">
 
-### 🧪 [Software Testing Suite](https://github.com/Sumit-1018/SoftwareTestingProject)
-Comprehensive automation framework for e-commerce testing including cart management, checkout flows, and search functionality.
+### 🛒 [Swiggy Automation](https://github.com/Sumit-1018/SwiggyAutomation)
+End-to-end automation testing framework for Swiggy’s web application covering critical user journeys.
 
 **Tech Stack:** `Java` `Selenium` `TestNG` `Maven`
 
 **Features:**
-- Page Object Model design
-- Cross-browser testing
-- Detailed reporting
+- Login & restaurant search automation
+- Cart and checkout flow validation
+- Page Object Model (POM) architecture
+- Scalable and maintainable test structure
 
 </td>
 </tr>
 </table>
+
 
 ---
 
