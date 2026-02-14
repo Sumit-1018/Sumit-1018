@@ -23,7 +23,7 @@ class SumitGupta:
     def __init__(self):
         self.name = "Sumit Gupta"
         self.role = "Data Analyst | Software Developer | Automation Engineer"
-        self.location = "Jalandhar, Punjab, India"
+        self.location = "Delhi, India"
         self.languages = ["Python", "Java", "Kotlin", "SQL"]
         self.current_focus = ["Data Analytics", "AI Integration", "Test Automation"]
         
